@@ -141,3 +141,6 @@ I got hooked by taking things apart to see how they worked — and never stopped
 *Built from scratch, one impossible idea at a time.* ⚡
 
 </div>
+
+<!-- profile readme -->
+
